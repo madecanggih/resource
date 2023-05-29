@@ -60,3 +60,21 @@ Here you can find resources that may help you in your life & career.
 | [React Indonesia](https://www.meetup.com/reactindonesia/)                   | Meetup.com | React.js developers, online/offline event                   |
 | [ReactJS Indonesia](https://t.me/react_idn)                                 | Telegram   | React.js developers                                         |
 | [Software Engineer Indonesia](https://t.me/soft_eng_id)                     | Telegram   | Software engineer community                                 |
+
+## Learning Contents
+
+| Website                                                              | Description                                                  |
+|----------------------------------------------------------------------|--------------------------------------------------------------|
+| [Architecture Notes](https://architecturenotes.co/)                  | General software engineering                                 |
+| [ByteByteGo](https://bytebytego.com/)                                | System design & software architecture                        |
+| [Code with Andrea](https://www.youtube.com/c/CodeWithAndrea)         | Flutter and Dart                                             |
+| [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)   | Frontend development                                         |
+| [Eric Wendel](https://blog.erickwendel.com.br/)                      | Node.js and Javascript                                       |
+| [Hussein Nasser](https://www.husseinnasser.com/)                     | Backend, database, and networking                            |
+| [Jon Calhoun](https://www.calhoun.io/)                               | Development with Golang                                      |
+| [Madeline Mann](https://www.youtube.com/SelfMadeMillennial/)         | Job hunting related tips                                     |
+| [NeetCode](https://neetcode.io/)                                     | Algorithm & Data Structure                                   |
+| [Pragmatic Engineer](https://pragmaticengineer.com/)                 | General software engineering                                 |
+| [Refactoring](https://refactoring.guru/)                             | Design pattern and refactoring                               |
+| [TechWorld with Nana](https://www.youtube.com/c/techworldwithnana)   | Learn DevOps                                                 |
+| [VisuAlgo](https://visualgo.net/en)                                  | Algorithm visualization by NUS                               |
