@@ -4,7 +4,9 @@ Here you can find resources that may help you in your life & career.
 
 ## Contents
 
-[Job Hunting Sharing Session](#) - recording of the session (will be updated).
+[Job Hunting Sharing Session Video](https://youtu.be/eqRrM_gW8v8) - recording of the session.
+
+[Job Hunting Sharing Session Deck](./job-hunting-sharing-session-adplist/presentation-deck.pdf) - presentation deck of the session.
 
 [Job Tracking Sheet](https://docs.google.com/spreadsheets/d/1rHsUSuzCvPEmEADQCciCPTUUXxVGSnTEGWk_967GW1o) - helps you track your job applications.
 
