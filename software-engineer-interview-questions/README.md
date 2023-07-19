@@ -121,7 +121,7 @@ Knowing the basic shows that you have experience & a good understanding of the p
 **What do you know about X (tehnical term)?**
 
 ```
-This is a general programming questions, for example `What do you know about Object Oriented Programming?`
+This is a general programming questions, for example, What do you know about "Object Oriented Programming"?
 
 This might be related to the job and sometimes it is written on the job description.
 
@@ -130,9 +130,9 @@ This might be related to the job and sometimes it is written on the job descript
 **What are the difference between X and Y (tehnical term)?**
 
 ```
-This could be about the feature of a programming language or a general programming questions, for example `What are the difference between Object Oriented Programming and Functional Programming?`
+This could be about the feature of a programming language or a general programming questions, for example, What are the difference between "Object Oriented Programming" and "Functional Programming"?
 
-In a specific programming language, it could be the feature, for example `What are the difference between `setTimeout` and `setInterval` in JavaScript?`
+In a specific programming language, it could be the feature, for example, What are the difference between "setTimeout" and "setInterval" in JavaScript?
 
 
 ```
