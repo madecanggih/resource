@@ -2,9 +2,9 @@
 
 Interviews for Software Engineers role are usually divided into 3 parts:
 
-- [HR Interview](https://github.com/madecanggih/resource/tree/master/software-engineer-interview-questions#hr-interview)
-- [Technical Interview](https://github.com/madecanggih/resource/tree/master/software-engineer-interview-questions#technical-interview)
-- [User Interview](https://github.com/madecanggih/resource/tree/master/software-engineer-interview-questions#user-interview)
+- [HR Interview](#hr-interview)
+- [Technical Interview](#technical-interview)
+- [User Interview](#user-interview)
 
 The technical part sometimes can be subtituted or complemented with a coding challenge.
 
