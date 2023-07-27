@@ -2,9 +2,9 @@
 
 Interviews for Software Engineers role are usually divided into 3 parts:
 
-- HR Interview
-- Technical Interview
-- User Interview
+- [HR Interview](https://github.com/madecanggih/resource/tree/master/software-engineer-interview-questions#hr-interview)
+- [Technical Interview](https://github.com/madecanggih/resource/tree/master/software-engineer-interview-questions#technical-interview)
+- [User Interview](https://github.com/madecanggih/resource/tree/master/software-engineer-interview-questions#user-interview)
 
 The technical part sometimes can be subtituted or complemented with a coding challenge.
 
@@ -96,9 +96,9 @@ This is about matching the job start date with your availability.
 
 You can tell them about your notice period here.
 
-## Technical Interview
-
 ```
+
+## Technical Interview
 
 **What do you like about X (programming language)?**
 
@@ -144,9 +144,9 @@ This is about your learning method.
 
 You can tell them about the resources you use to learn new technologies and how you experiment with it.
 
-## User Interview
-
 ```
+
+## User Interview
 
 **What do you know about our company?**
 
