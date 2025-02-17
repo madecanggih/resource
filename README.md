@@ -12,6 +12,8 @@ Here you can find resources that may help you in your life & career.
 
 [Resume Templates](https://docs.google.com/document/d/1qUGqVSK_bXMMmgnkyjRCKFbtFWDC9ZgdaANkkYaOBSI) - my favorite resume format.
 
+[Cover Letter Templates](https://docs.google.com/document/d/1ILZoSknrO4K6HJ62-USjTQCn4QO70V_YCIdbnq2xQW4) - my go-to cover letter template.
+
 [Interview Questions](./software-engineer-interview-questions) - most common interview questions for software engineer.
 
 ## Job Boards
